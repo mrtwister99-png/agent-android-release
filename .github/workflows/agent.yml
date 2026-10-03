@@ -1,4 +1,4 @@
-name: Loyo Release Captain
+﻿name: Loyo Release Captain
 on:
   schedule:
     - cron: '*/15 * * * *'
